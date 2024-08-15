@@ -9,4 +9,5 @@ A hands-on practice exercise for the open science platforms session
 
 
 ## Names of participants
-1. Michael Landi 
+1. Michael Landi
+2. Michael Landi 
