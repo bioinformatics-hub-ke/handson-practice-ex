@@ -9,7 +9,8 @@ A hands-on practice exercise for the open science platforms session
 
 
 ## Names of participants
+1. Lisa Mhlanga 
+2. Hello Dadi
+3. Akpojotor Ufuoma
 
-Hello Dadi
-Akpojotor Ufuoma
 
