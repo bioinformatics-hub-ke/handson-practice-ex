@@ -9,4 +9,7 @@ A hands-on practice exercise for the open science platforms session
 
 
 ## Names of participants
+
+Hello Dadi
 Akpojotor Ufuoma
+
